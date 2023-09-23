@@ -1,4 +1,4 @@
-package Set.BasicOperations;
+package Set.Search;
 
 public class Contact {
     private String name;
